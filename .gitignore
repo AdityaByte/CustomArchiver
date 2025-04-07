@@ -4,3 +4,5 @@ storage/
 *.png
 *.pdf
 *.adzip
+bin/
+*.zip
