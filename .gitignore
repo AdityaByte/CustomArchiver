@@ -1,0 +1,6 @@
+.vscode/
+storage/
+*.py
+*.png
+*.pdf
+*.adzip
