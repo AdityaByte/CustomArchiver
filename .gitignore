@@ -6,3 +6,4 @@ storage/
 *.adzip
 bin/
 *.zip
+*.txt
